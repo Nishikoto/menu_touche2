@@ -1,6 +1,6 @@
 # Menu Touches
 
-*Version 1*
-
 
 Comme à l'époque...
+
+La seule et unique version.
